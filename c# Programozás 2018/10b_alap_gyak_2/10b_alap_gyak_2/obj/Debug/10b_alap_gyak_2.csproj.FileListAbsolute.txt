@@ -1,0 +1,21 @@
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_2\bin\Debug\10b_alap_gyak_2.exe.config
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_2\bin\Debug\10b_alap_gyak_2.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_2\bin\Debug\10b_alap_gyak_2.pdb
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.pdb
+C:\Users\rbuzas\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\bin\Debug\10b_alap_gyak_2.exe.config
+C:\Users\rbuzas\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.exe
+C:\Users\rbuzas\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.pdb
+C:\Users\rbuzas\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\bin\Debug\10b_alap_gyak_2.exe
+C:\Users\rbuzas\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\bin\Debug\10b_alap_gyak_2.pdb
+C:\Users\rbuzas\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.csprojResolveAssemblyReference.cache
+C:\Users\usera1\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\bin\Debug\10b_alap_gyak_2.exe.config
+C:\Users\usera1\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.exe
+C:\Users\usera1\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.pdb
+C:\Users\usera1\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\bin\Debug\10b_alap_gyak_2.exe
+C:\Users\usera1\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\bin\Debug\10b_alap_gyak_2.pdb
+C:\Users\usera1\Desktop\10b_alap_gyak_2\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.csprojResolveAssemblyReference.cache
+D:\Iskola\2018-2019\c#\10b_alap_gyak_2\10b_alap_gyak_2\bin\Debug\10b_alap_gyak_2.exe.config
+D:\Iskola\2018-2019\c#\10b_alap_gyak_2\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.exe
+D:\Iskola\2018-2019\c#\10b_alap_gyak_2\10b_alap_gyak_2\obj\Debug\10b_alap_gyak_2.pdb

@@ -1,0 +1,18 @@
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_2\bin\Debug\bekérés_consol_gyak_2.exe.config
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_2\bin\Debug\bekérés_consol_gyak_2.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_2\bin\Debug\bekérés_consol_gyak_2.pdb
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_2\obj\Debug\bekérés_consol_gyak_2.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_2\obj\Debug\bekérés_consol_gyak_2.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_2\obj\Debug\bekérés_consol_gyak_2.pdb
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_2\bekérés_consol_gyak_2\bin\Debug\bekérés_consol_gyak_2.exe.config
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_2\bekérés_consol_gyak_2\obj\Debug\bekérés_consol_gyak_2.exe
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_2\bekérés_consol_gyak_2\obj\Debug\bekérés_consol_gyak_2.pdb
+C:\Users\usera1\Desktop\bekérés_consol_gyak_2\bekérés_consol_gyak_2\bin\Debug\bekérés_consol_gyak_2.exe.config
+C:\Users\usera1\Desktop\bekérés_consol_gyak_2\bekérés_consol_gyak_2\obj\Debug\bekérés_consol_gyak_2.exe
+C:\Users\usera1\Desktop\bekérés_consol_gyak_2\bekérés_consol_gyak_2\obj\Debug\bekérés_consol_gyak_2.pdb
+C:\Users\usera1\Desktop\bekérés_consol_gyak_2\bekérés_consol_gyak_2\obj\Debug\bekérés_consol_gyak_2.csprojResolveAssemblyReference.cache
+C:\Users\usera1\Desktop\bekérés_consol_gyak_2\bekérés_consol_gyak_2\bin\Debug\bekérés_consol_gyak_2.exe
+C:\Users\usera1\Desktop\bekérés_consol_gyak_2\bekérés_consol_gyak_2\bin\Debug\bekérés_consol_gyak_2.pdb
+D:\Iskola\2018-2019\c# Programozás\bekérés_consol_gyak_2\bekérés_consol_gyak_2\bin\Debug\bekérés_consol_gyak_2.exe.config
+D:\Iskola\2018-2019\c# Programozás\bekérés_consol_gyak_2\bekérés_consol_gyak_2\obj\Debug\bekérés_consol_gyak_2.exe
+D:\Iskola\2018-2019\c# Programozás\bekérés_consol_gyak_2\bekérés_consol_gyak_2\obj\Debug\bekérés_consol_gyak_2.pdb

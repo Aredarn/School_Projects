@@ -1,0 +1,6 @@
+c:\users\usera1\documents\visual studio 2015\Projects\MateFG\MateFG\bin\Debug\MateFG.exe.config
+c:\users\usera1\documents\visual studio 2015\Projects\MateFG\MateFG\bin\Debug\MateFG.exe
+c:\users\usera1\documents\visual studio 2015\Projects\MateFG\MateFG\bin\Debug\MateFG.pdb
+c:\users\usera1\documents\visual studio 2015\Projects\MateFG\MateFG\obj\Debug\MateFG.csprojResolveAssemblyReference.cache
+c:\users\usera1\documents\visual studio 2015\Projects\MateFG\MateFG\obj\Debug\MateFG.exe
+c:\users\usera1\documents\visual studio 2015\Projects\MateFG\MateFG\obj\Debug\MateFG.pdb

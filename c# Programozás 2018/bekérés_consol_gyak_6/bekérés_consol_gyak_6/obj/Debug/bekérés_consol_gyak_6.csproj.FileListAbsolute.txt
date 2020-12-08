@@ -1,0 +1,27 @@
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.exe.config
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.pdb
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.pdb
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_6\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.exe.config
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_6\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.exe
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_6\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.pdb
+E:\tananyag_1819\10b\bekérés_consol_gyak_6_fk\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.exe.config
+E:\tananyag_1819\10b\bekérés_consol_gyak_6_fk\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.exe
+E:\tananyag_1819\10b\bekérés_consol_gyak_6_fk\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.pdb
+E:\tananyag_1819\10b\bekérés_consol_gyak_6_fk\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.exe
+E:\tananyag_1819\10b\bekérés_consol_gyak_6_fk\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.pdb
+E:\tananyag_1819\10b\bekérés_consol_gyak_6_fk\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.csprojResolveAssemblyReference.cache
+C:\Users\usera1\Desktop\bekérés_consol_gyak_6\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.exe.config
+C:\Users\usera1\Desktop\bekérés_consol_gyak_6\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.exe
+C:\Users\usera1\Desktop\bekérés_consol_gyak_6\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.pdb
+C:\Users\usera1\Desktop\bekérés_consol_gyak_6\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.exe
+C:\Users\usera1\Desktop\bekérés_consol_gyak_6\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.pdb
+C:\Users\usera1\Desktop\bekérés_consol_gyak_6\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.csprojResolveAssemblyReference.cache
+D:\Iskola\2018-2019\c# Programozás\bekérés_consol_gyak_6\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.exe.config
+D:\Iskola\2018-2019\c# Programozás\bekérés_consol_gyak_6\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.exe
+D:\Iskola\2018-2019\c# Programozás\bekérés_consol_gyak_6\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.pdb
+F:\Iskola\2018-2019\c# Programozás\bekérés_consol_gyak_6\bekérés_consol_gyak_6\bin\Debug\bekérés_consol_gyak_6.exe.config
+F:\Iskola\2018-2019\c# Programozás\bekérés_consol_gyak_6\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.exe
+F:\Iskola\2018-2019\c# Programozás\bekérés_consol_gyak_6\bekérés_consol_gyak_6\obj\Debug\bekérés_consol_gyak_6.pdb

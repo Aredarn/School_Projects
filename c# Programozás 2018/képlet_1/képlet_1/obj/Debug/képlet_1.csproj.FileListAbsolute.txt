@@ -1,0 +1,6 @@
+c:\users\usera1\documents\visual studio 2015\Projects\képlet_1\képlet_1\bin\Debug\képlet_1.exe.config
+c:\users\usera1\documents\visual studio 2015\Projects\képlet_1\képlet_1\bin\Debug\képlet_1.exe
+c:\users\usera1\documents\visual studio 2015\Projects\képlet_1\képlet_1\bin\Debug\képlet_1.pdb
+c:\users\usera1\documents\visual studio 2015\Projects\képlet_1\képlet_1\obj\Debug\képlet_1.csprojResolveAssemblyReference.cache
+c:\users\usera1\documents\visual studio 2015\Projects\képlet_1\képlet_1\obj\Debug\képlet_1.exe
+c:\users\usera1\documents\visual studio 2015\Projects\képlet_1\képlet_1\obj\Debug\képlet_1.pdb

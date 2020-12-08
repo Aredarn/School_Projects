@@ -1,0 +1,6 @@
+c:\users\usera1\documents\visual studio 2015\Projects\ConsoleFGB\ConsoleFGB\bin\Debug\ConsoleFGB.exe.config
+c:\users\usera1\documents\visual studio 2015\Projects\ConsoleFGB\ConsoleFGB\bin\Debug\ConsoleFGB.exe
+c:\users\usera1\documents\visual studio 2015\Projects\ConsoleFGB\ConsoleFGB\bin\Debug\ConsoleFGB.pdb
+c:\users\usera1\documents\visual studio 2015\Projects\ConsoleFGB\ConsoleFGB\obj\Debug\ConsoleFGB.csprojResolveAssemblyReference.cache
+c:\users\usera1\documents\visual studio 2015\Projects\ConsoleFGB\ConsoleFGB\obj\Debug\ConsoleFGB.exe
+c:\users\usera1\documents\visual studio 2015\Projects\ConsoleFGB\ConsoleFGB\obj\Debug\ConsoleFGB.pdb

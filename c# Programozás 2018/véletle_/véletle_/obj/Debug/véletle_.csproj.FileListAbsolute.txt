@@ -1,0 +1,12 @@
+c:\users\usera1\documents\visual studio 2015\Projects\véletle_\véletle_\bin\Debug\véletle_.exe.config
+c:\users\usera1\documents\visual studio 2015\Projects\véletle_\véletle_\bin\Debug\véletle_.exe
+c:\users\usera1\documents\visual studio 2015\Projects\véletle_\véletle_\bin\Debug\véletle_.pdb
+c:\users\usera1\documents\visual studio 2015\Projects\véletle_\véletle_\obj\Debug\véletle_.csprojResolveAssemblyReference.cache
+c:\users\usera1\documents\visual studio 2015\Projects\véletle_\véletle_\obj\Debug\véletle_.exe
+c:\users\usera1\documents\visual studio 2015\Projects\véletle_\véletle_\obj\Debug\véletle_.pdb
+F:\Iskola\2018-2019\c# Programozás\véletle_\véletle_\bin\Debug\véletle_.exe.config
+F:\Iskola\2018-2019\c# Programozás\véletle_\véletle_\obj\Debug\véletle_.exe
+F:\Iskola\2018-2019\c# Programozás\véletle_\véletle_\obj\Debug\véletle_.pdb
+F:\Iskola\2018-2019\c# Programozás\véletle_\véletle_\bin\Debug\véletle_.exe
+F:\Iskola\2018-2019\c# Programozás\véletle_\véletle_\bin\Debug\véletle_.pdb
+F:\Iskola\2018-2019\c# Programozás\véletle_\véletle_\obj\Debug\véletle_.csprojResolveAssemblyReference.cache

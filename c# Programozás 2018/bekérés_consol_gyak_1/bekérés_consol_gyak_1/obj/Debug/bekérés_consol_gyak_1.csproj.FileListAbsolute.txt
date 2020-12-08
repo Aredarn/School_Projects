@@ -1,0 +1,7 @@
+c:\users\rbuzas\documents\visual studio 2015\Projects\bekérés_consol_gyak_1\bekérés_consol_gyak_1\bin\Debug\bekérés_consol_gyak_1.exe.config
+C:\Users\usera1\Desktop\bekérés_consol_gyak_1\bekérés_consol_gyak_1\bin\Debug\bekérés_consol_gyak_1.exe.config
+C:\Users\usera1\Desktop\bekérés_consol_gyak_1\bekérés_consol_gyak_1\bin\Debug\bekérés_consol_gyak_1.exe
+C:\Users\usera1\Desktop\bekérés_consol_gyak_1\bekérés_consol_gyak_1\bin\Debug\bekérés_consol_gyak_1.pdb
+C:\Users\usera1\Desktop\bekérés_consol_gyak_1\bekérés_consol_gyak_1\obj\Debug\bekérés_consol_gyak_1.csprojResolveAssemblyReference.cache
+C:\Users\usera1\Desktop\bekérés_consol_gyak_1\bekérés_consol_gyak_1\obj\Debug\bekérés_consol_gyak_1.exe
+C:\Users\usera1\Desktop\bekérés_consol_gyak_1\bekérés_consol_gyak_1\obj\Debug\bekérés_consol_gyak_1.pdb

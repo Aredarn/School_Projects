@@ -1,0 +1,6 @@
+c:\users\usera1\documents\visual studio 2015\Projects\IF_gyak\IF_gyak\bin\Debug\IF_gyak.exe.config
+c:\users\usera1\documents\visual studio 2015\Projects\IF_gyak\IF_gyak\bin\Debug\IF_gyak.exe
+c:\users\usera1\documents\visual studio 2015\Projects\IF_gyak\IF_gyak\bin\Debug\IF_gyak.pdb
+c:\users\usera1\documents\visual studio 2015\Projects\IF_gyak\IF_gyak\obj\Debug\IF_gyak.csprojResolveAssemblyReference.cache
+c:\users\usera1\documents\visual studio 2015\Projects\IF_gyak\IF_gyak\obj\Debug\IF_gyak.exe
+c:\users\usera1\documents\visual studio 2015\Projects\IF_gyak\IF_gyak\obj\Debug\IF_gyak.pdb

@@ -1,0 +1,6 @@
+c:\users\usera1\documents\visual studio 2015\Projects\változók gyak\változók gyak\bin\Debug\változók gyak.exe.config
+c:\users\usera1\documents\visual studio 2015\Projects\változók gyak\változók gyak\bin\Debug\változók gyak.exe
+c:\users\usera1\documents\visual studio 2015\Projects\változók gyak\változók gyak\bin\Debug\változók gyak.pdb
+c:\users\usera1\documents\visual studio 2015\Projects\változók gyak\változók gyak\obj\Debug\változók gyak.csprojResolveAssemblyReference.cache
+c:\users\usera1\documents\visual studio 2015\Projects\változók gyak\változók gyak\obj\Debug\változók gyak.exe
+c:\users\usera1\documents\visual studio 2015\Projects\változók gyak\változók gyak\obj\Debug\változók gyak.pdb

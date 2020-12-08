@@ -1,0 +1,6 @@
+c:\users\usera1\documents\visual studio 2015\Projects\többszörös aláhúzás elágazás\többszörös aláhúzás elágazás\bin\Debug\többszörös aláhúzás elágazás.exe.config
+c:\users\usera1\documents\visual studio 2015\Projects\többszörös aláhúzás elágazás\többszörös aláhúzás elágazás\obj\Debug\többszörös aláhúzás elágazás.csprojResolveAssemblyReference.cache
+c:\users\usera1\documents\visual studio 2015\Projects\többszörös aláhúzás elágazás\többszörös aláhúzás elágazás\bin\Debug\többszörös aláhúzás elágazás.exe
+c:\users\usera1\documents\visual studio 2015\Projects\többszörös aláhúzás elágazás\többszörös aláhúzás elágazás\bin\Debug\többszörös aláhúzás elágazás.pdb
+c:\users\usera1\documents\visual studio 2015\Projects\többszörös aláhúzás elágazás\többszörös aláhúzás elágazás\obj\Debug\többszörös aláhúzás elágazás.exe
+c:\users\usera1\documents\visual studio 2015\Projects\többszörös aláhúzás elágazás\többszörös aláhúzás elágazás\obj\Debug\többszörös aláhúzás elágazás.pdb

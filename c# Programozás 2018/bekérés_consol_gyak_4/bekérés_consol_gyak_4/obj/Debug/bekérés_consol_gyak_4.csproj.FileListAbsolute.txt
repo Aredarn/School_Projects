@@ -1,0 +1,12 @@
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\bin\Debug\bekérés_consol_gyak_4.exe.config
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\bin\Debug\bekérés_consol_gyak_4.exe
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\bin\Debug\bekérés_consol_gyak_4.pdb
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\obj\Debug\bekérés_consol_gyak_4.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\obj\Debug\bekérés_consol_gyak_4.exe
+C:\Users\rbuzas\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\obj\Debug\bekérés_consol_gyak_4.pdb
+C:\Users\usera1\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\bin\Debug\bekérés_consol_gyak_4.exe.config
+C:\Users\usera1\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\obj\Debug\bekérés_consol_gyak_4.exe
+C:\Users\usera1\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\obj\Debug\bekérés_consol_gyak_4.pdb
+C:\Users\usera1\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\bin\Debug\bekérés_consol_gyak_4.exe
+C:\Users\usera1\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\bin\Debug\bekérés_consol_gyak_4.pdb
+C:\Users\usera1\Desktop\bekérés_consol_gyak_4\bekérés_consol_gyak_4\obj\Debug\bekérés_consol_gyak_4.csprojResolveAssemblyReference.cache

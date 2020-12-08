@@ -1,0 +1,21 @@
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_4\bin\Debug\10b_alap_gyak_4.exe.config
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_4\bin\Debug\10b_alap_gyak_4.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_4\bin\Debug\10b_alap_gyak_4.pdb
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.pdb
+C:\Users\rbuzas\Desktop\10b_alap_gyak_4\10b_alap_gyak_4\bin\Debug\10b_alap_gyak_4.exe.config
+C:\Users\rbuzas\Desktop\10b_alap_gyak_4\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.exe
+C:\Users\rbuzas\Desktop\10b_alap_gyak_4\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.pdb
+E:\tananyag_1819\10b\10b_alap_gyak_4\10b_alap_gyak_4\bin\Debug\10b_alap_gyak_4.exe.config
+E:\tananyag_1819\10b\10b_alap_gyak_4\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.exe
+E:\tananyag_1819\10b\10b_alap_gyak_4\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.pdb
+C:\Users\usera1\Desktop\10b_alap_gyak_4\10b_alap_gyak_4\bin\Debug\10b_alap_gyak_4.exe.config
+C:\Users\usera1\Desktop\10b_alap_gyak_4\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.exe
+C:\Users\usera1\Desktop\10b_alap_gyak_4\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.pdb
+C:\Users\usera1\Desktop\10b_alap_gyak_4\10b_alap_gyak_4\bin\Debug\10b_alap_gyak_4.exe
+C:\Users\usera1\Desktop\10b_alap_gyak_4\10b_alap_gyak_4\bin\Debug\10b_alap_gyak_4.pdb
+C:\Users\usera1\Desktop\10b_alap_gyak_4\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.csprojResolveAssemblyReference.cache
+D:\Iskola\2018-2019\c# Programozás\10b_alap_gyak_4\10b_alap_gyak_4\bin\Debug\10b_alap_gyak_4.exe.config
+D:\Iskola\2018-2019\c# Programozás\10b_alap_gyak_4\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.exe
+D:\Iskola\2018-2019\c# Programozás\10b_alap_gyak_4\10b_alap_gyak_4\obj\Debug\10b_alap_gyak_4.pdb

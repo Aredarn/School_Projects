@@ -1,0 +1,6 @@
+c:\users\usera1\documents\visual studio 2015\Projects\Típusáltalaktás\Típusáltalaktás\bin\Debug\Típusáltalaktás.exe.config
+c:\users\usera1\documents\visual studio 2015\Projects\Típusáltalaktás\Típusáltalaktás\bin\Debug\Típusáltalaktás.exe
+c:\users\usera1\documents\visual studio 2015\Projects\Típusáltalaktás\Típusáltalaktás\bin\Debug\Típusáltalaktás.pdb
+c:\users\usera1\documents\visual studio 2015\Projects\Típusáltalaktás\Típusáltalaktás\obj\Debug\Típusáltalaktás.csprojResolveAssemblyReference.cache
+c:\users\usera1\documents\visual studio 2015\Projects\Típusáltalaktás\Típusáltalaktás\obj\Debug\Típusáltalaktás.exe
+c:\users\usera1\documents\visual studio 2015\Projects\Típusáltalaktás\Típusáltalaktás\obj\Debug\Típusáltalaktás.pdb
