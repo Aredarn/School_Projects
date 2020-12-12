@@ -1,0 +1,7 @@
+E:\Drive\Programs\függvény_osztály_gyak_1\függvény_osztály_gyak_1\bin\Debug\függvény_osztály_gyak_1.exe.config
+E:\Drive\Programs\függvény_osztály_gyak_1\függvény_osztály_gyak_1\bin\Debug\függvény_osztály_gyak_1.exe
+E:\Drive\Programs\függvény_osztály_gyak_1\függvény_osztály_gyak_1\bin\Debug\függvény_osztály_gyak_1.pdb
+E:\Drive\Programs\függvény_osztály_gyak_1\függvény_osztály_gyak_1\obj\Debug\függvény_osztály_gyak_1.csprojAssemblyReference.cache
+E:\Drive\Programs\függvény_osztály_gyak_1\függvény_osztály_gyak_1\obj\Debug\függvény_osztály_gyak_1.csproj.CoreCompileInputs.cache
+E:\Drive\Programs\függvény_osztály_gyak_1\függvény_osztály_gyak_1\obj\Debug\függvény_osztály_gyak_1.exe
+E:\Drive\Programs\függvény_osztály_gyak_1\függvény_osztály_gyak_1\obj\Debug\függvény_osztály_gyak_1.pdb

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\bin\Debug\netcoreapp3.1\osztály_adattag.exe
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\bin\Debug\netcoreapp3.1\osztály_adattag.deps.json
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\bin\Debug\netcoreapp3.1\osztály_adattag.runtimeconfig.json
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\bin\Debug\netcoreapp3.1\osztály_adattag.runtimeconfig.dev.json
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\bin\Debug\netcoreapp3.1\osztály_adattag.dll
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\bin\Debug\netcoreapp3.1\osztály_adattag.pdb
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\obj\Debug\netcoreapp3.1\osztály_adattag.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\obj\Debug\netcoreapp3.1\osztály_adattag.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\obj\Debug\netcoreapp3.1\osztály_adattag.AssemblyInfo.cs
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\obj\Debug\netcoreapp3.1\osztály_adattag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\obj\Debug\netcoreapp3.1\osztály_adattag.dll
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\obj\Debug\netcoreapp3.1\osztály_adattag.pdb
+C:\Users\user\Desktop\Osztály_adattag\osztály_adattag\obj\Debug\netcoreapp3.1\osztály_adattag.genruntimeconfig.cache

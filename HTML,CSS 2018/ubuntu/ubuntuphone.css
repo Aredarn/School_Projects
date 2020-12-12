@@ -1,0 +1,117 @@
+﻿body{
+	color:#4f4f4f;
+	background-color:#f9f9f9;
+	font-family:Ubuntu;
+	font-size:14px;
+}
+
+
+#keret{
+	width:1125px;
+	border:1px;
+	border-color:#e0e0e0;
+	text-align:center;
+	margin:0px;
+	background-color:white;
+}
+
+
+
+#fejlec{
+	width:1125px;
+	height:300px;
+	margin:0px;
+	padding:0px;
+	background-image:url("omg.png");
+}
+
+
+#lablec{
+	clear:both;
+	color:#808080;
+	width:1085px;
+	padding:0px;
+	margin:0px;
+	background-color:#efefef;
+	text-align:center;
+	
+}
+
+
+#torzs{
+	width:1125px;
+	margin:0px;
+	padding:0px;
+}
+
+
+
+#cikk{
+	float:left;
+	width:720px;
+	padding:0px;
+	margin:20px;
+	background-color:white;
+}
+
+#kommentek{
+	float:right;
+	height:1300px;
+	width:300px;
+	padding:0px;
+	margin:20px;
+	background-color:#efefef;
+}
+
+h1{
+	color:#333333;
+	font-size:32px;
+}
+
+h2{
+	color:#f15d22;
+	font-size:24px;
+}
+
+img{
+	width:500px;
+	display: block;
+     margin:0 auto 0 auto;
+}
+
+a{
+	color:#f15d22;
+ 	text-decoration: none;
+ 	font-weight:bold;
+	
+}
+
+
+.komment{
+	width:250px;
+	margin:20px auto 20px auto;
+	background:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

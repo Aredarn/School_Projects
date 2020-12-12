@@ -1,0 +1,13 @@
+C:\Users\rbuzas\Desktop\ismétlés\ismétlés\bin\Debug\ismétlés.exe.config
+C:\Users\rbuzas\Desktop\ismétlés\ismétlés\bin\Debug\ismétlés.exe
+C:\Users\rbuzas\Desktop\ismétlés\ismétlés\bin\Debug\ismétlés.pdb
+C:\Users\rbuzas\Desktop\ismétlés\ismétlés\obj\Debug\ismétlés.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\Desktop\ismétlés\ismétlés\obj\Debug\ismétlés.exe
+C:\Users\rbuzas\Desktop\ismétlés\ismétlés\obj\Debug\ismétlés.pdb
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\bin\Debug\ismétlés.exe.config
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\bin\Debug\ismétlés.exe
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\bin\Debug\ismétlés.pdb
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\obj\Debug\ismétlés.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\obj\Debug\ismétlés.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\obj\Debug\ismétlés.exe
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\obj\Debug\ismétlés.pdb

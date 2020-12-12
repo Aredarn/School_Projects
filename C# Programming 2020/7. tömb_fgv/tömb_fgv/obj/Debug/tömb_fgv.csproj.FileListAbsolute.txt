@@ -1,0 +1,14 @@
+C:\Users\rbuzas\Desktop\tömb_fgv\tömb_fgv\bin\Debug\tömb_fgv.exe.config
+C:\Users\rbuzas\Desktop\tömb_fgv\tömb_fgv\bin\Debug\tömb_fgv.exe
+C:\Users\rbuzas\Desktop\tömb_fgv\tömb_fgv\bin\Debug\tömb_fgv.pdb
+C:\Users\rbuzas\Desktop\tömb_fgv\tömb_fgv\obj\Debug\tömb_fgv.csprojAssemblyReference.cache
+C:\Users\rbuzas\Desktop\tömb_fgv\tömb_fgv\obj\Debug\tömb_fgv.csproj.CoreCompileInputs.cache
+C:\Users\rbuzas\Desktop\tömb_fgv\tömb_fgv\obj\Debug\tömb_fgv.exe
+C:\Users\rbuzas\Desktop\tömb_fgv\tömb_fgv\obj\Debug\tömb_fgv.pdb
+C:\Users\user\Desktop\tömb_fgv\tömb_fgv\bin\Debug\tömb_fgv.exe.config
+C:\Users\user\Desktop\tömb_fgv\tömb_fgv\bin\Debug\tömb_fgv.exe
+C:\Users\user\Desktop\tömb_fgv\tömb_fgv\bin\Debug\tömb_fgv.pdb
+C:\Users\user\Desktop\tömb_fgv\tömb_fgv\obj\Debug\tömb_fgv.csprojAssemblyReference.cache
+C:\Users\user\Desktop\tömb_fgv\tömb_fgv\obj\Debug\tömb_fgv.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tömb_fgv\tömb_fgv\obj\Debug\tömb_fgv.exe
+C:\Users\user\Desktop\tömb_fgv\tömb_fgv\obj\Debug\tömb_fgv.pdb

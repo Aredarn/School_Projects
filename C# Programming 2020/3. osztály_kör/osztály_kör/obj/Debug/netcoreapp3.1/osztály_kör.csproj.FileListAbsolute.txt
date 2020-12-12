@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\osztály_kör\osztály_kör\bin\Debug\netcoreapp3.1\osztály_kör.exe
+C:\Users\user\Desktop\osztály_kör\osztály_kör\bin\Debug\netcoreapp3.1\osztály_kör.deps.json
+C:\Users\user\Desktop\osztály_kör\osztály_kör\bin\Debug\netcoreapp3.1\osztály_kör.runtimeconfig.json
+C:\Users\user\Desktop\osztály_kör\osztály_kör\bin\Debug\netcoreapp3.1\osztály_kör.runtimeconfig.dev.json
+C:\Users\user\Desktop\osztály_kör\osztály_kör\bin\Debug\netcoreapp3.1\osztály_kör.dll
+C:\Users\user\Desktop\osztály_kör\osztály_kör\bin\Debug\netcoreapp3.1\osztály_kör.pdb
+C:\Users\user\Desktop\osztály_kör\osztály_kör\obj\Debug\netcoreapp3.1\osztály_kör.csprojAssemblyReference.cache
+C:\Users\user\Desktop\osztály_kör\osztály_kör\obj\Debug\netcoreapp3.1\osztály_kör.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\osztály_kör\osztály_kör\obj\Debug\netcoreapp3.1\osztály_kör.AssemblyInfo.cs
+C:\Users\user\Desktop\osztály_kör\osztály_kör\obj\Debug\netcoreapp3.1\osztály_kör.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\osztály_kör\osztály_kör\obj\Debug\netcoreapp3.1\osztály_kör.dll
+C:\Users\user\Desktop\osztály_kör\osztály_kör\obj\Debug\netcoreapp3.1\osztály_kör.pdb
+C:\Users\user\Desktop\osztály_kör\osztály_kör\obj\Debug\netcoreapp3.1\osztály_kör.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\bin\Release\ismétlés.exe.config
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\bin\Release\ismétlés.exe
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\bin\Release\ismétlés.pdb
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\obj\Release\ismétlés.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\obj\Release\ismétlés.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\obj\Release\ismétlés.exe
+C:\Users\user\Desktop\ismétlés_12b\ismétlés\obj\Release\ismétlés.pdb

@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS2001: Source file 'C:\Users\user\Desktop\tömb_fgv\tömb_fgv\Properties\AssemblyInfo.cs' could not be found.
+dotnet_diagnostic.CS2001.severity = silent
+
+# IDE0060: Remove unused parameter
+dotnet_code_quality_unused_parameters = all:none

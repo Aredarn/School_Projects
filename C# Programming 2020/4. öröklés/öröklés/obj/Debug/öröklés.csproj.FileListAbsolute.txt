@@ -1,0 +1,22 @@
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\öröklés\öröklés\bin\Debug\öröklés.exe.config
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\öröklés\öröklés\bin\Debug\öröklés.exe
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\öröklés\öröklés\bin\Debug\öröklés.pdb
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\öröklés\öröklés\obj\Debug\öröklés.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\öröklés\öröklés\obj\Debug\öröklés.exe
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\öröklés\öröklés\obj\Debug\öröklés.pdb
+F:\tananyag\13a\osztályok\öröklés\öröklés\bin\Debug\öröklés.exe.config
+F:\tananyag\13a\osztályok\öröklés\öröklés\obj\Debug\öröklés.exe
+F:\tananyag\13a\osztályok\öröklés\öröklés\obj\Debug\öröklés.pdb
+H:\tananyag\13a\osztályok\öröklés\öröklés\bin\Debug\öröklés.exe.config
+H:\tananyag\13a\osztályok\öröklés\öröklés\obj\Debug\öröklés.exe
+H:\tananyag\13a\osztályok\öröklés\öröklés\obj\Debug\öröklés.pdb
+Z:\br\programozás\12c\x\öröklés\öröklés\bin\Debug\öröklés.exe.config
+Z:\br\programozás\12c\x\öröklés\öröklés\obj\Debug\öröklés.exe
+Z:\br\programozás\12c\x\öröklés\öröklés\obj\Debug\öröklés.pdb
+C:\Users\user\Desktop\öröklés\öröklés\bin\Debug\öröklés.exe.config
+C:\Users\user\Desktop\öröklés\öröklés\bin\Debug\öröklés.exe
+C:\Users\user\Desktop\öröklés\öröklés\bin\Debug\öröklés.pdb
+C:\Users\user\Desktop\öröklés\öröklés\obj\Debug\öröklés.csprojAssemblyReference.cache
+C:\Users\user\Desktop\öröklés\öröklés\obj\Debug\öröklés.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\öröklés\öröklés\obj\Debug\öröklés.exe
+C:\Users\user\Desktop\öröklés\öröklés\obj\Debug\öröklés.pdb
