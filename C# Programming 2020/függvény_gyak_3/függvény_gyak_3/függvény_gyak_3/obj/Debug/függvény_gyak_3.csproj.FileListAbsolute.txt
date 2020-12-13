@@ -1,0 +1,13 @@
+c:\users\rbuzas\documents\visual studio 2015\Projects\függvény_gyak_3\függvény_gyak_3\bin\Debug\függvény_gyak_3.exe.config
+c:\users\rbuzas\documents\visual studio 2015\Projects\függvény_gyak_3\függvény_gyak_3\bin\Debug\függvény_gyak_3.exe
+c:\users\rbuzas\documents\visual studio 2015\Projects\függvény_gyak_3\függvény_gyak_3\bin\Debug\függvény_gyak_3.pdb
+c:\users\rbuzas\documents\visual studio 2015\Projects\függvény_gyak_3\függvény_gyak_3\obj\Debug\függvény_gyak_3.csprojResolveAssemblyReference.cache
+c:\users\rbuzas\documents\visual studio 2015\Projects\függvény_gyak_3\függvény_gyak_3\obj\Debug\függvény_gyak_3.exe
+c:\users\rbuzas\documents\visual studio 2015\Projects\függvény_gyak_3\függvény_gyak_3\obj\Debug\függvény_gyak_3.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_gyak_3\függvény_gyak_3\függvény_gyak_3\bin\Debug\függvény_gyak_3.exe.config
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_gyak_3\függvény_gyak_3\függvény_gyak_3\bin\Debug\függvény_gyak_3.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_gyak_3\függvény_gyak_3\függvény_gyak_3\bin\Debug\függvény_gyak_3.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_gyak_3\függvény_gyak_3\függvény_gyak_3\obj\Debug\függvény_gyak_3.csprojAssemblyReference.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_gyak_3\függvény_gyak_3\függvény_gyak_3\obj\Debug\függvény_gyak_3.csproj.CoreCompileInputs.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_gyak_3\függvény_gyak_3\függvény_gyak_3\obj\Debug\függvény_gyak_3.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_gyak_3\függvény_gyak_3\függvény_gyak_3\obj\Debug\függvény_gyak_3.pdb

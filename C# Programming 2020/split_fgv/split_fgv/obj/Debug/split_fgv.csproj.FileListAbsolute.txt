@@ -1,0 +1,25 @@
+C:\Users\rbuzas\AppData\Local\Temporary Projects\split_fgv\bin\Debug\split_fgv.exe.config
+C:\Users\rbuzas\AppData\Local\Temporary Projects\split_fgv\bin\Debug\split_fgv.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\split_fgv\bin\Debug\split_fgv.pdb
+C:\Users\rbuzas\AppData\Local\Temporary Projects\split_fgv\obj\Debug\split_fgv.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\AppData\Local\Temporary Projects\split_fgv\obj\Debug\split_fgv.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\split_fgv\obj\Debug\split_fgv.pdb
+C:\Users\rbuzas\Desktop\split_fgv\split_fgv\bin\Debug\split_fgv.exe.config
+C:\Users\rbuzas\Desktop\split_fgv\split_fgv\obj\Debug\split_fgv.exe
+C:\Users\rbuzas\Desktop\split_fgv\split_fgv\obj\Debug\split_fgv.pdb
+C:\Users\rbuzas\Desktop\split_fgv\split_fgv\bin\Debug\split_fgv.exe
+C:\Users\rbuzas\Desktop\split_fgv\split_fgv\bin\Debug\split_fgv.pdb
+C:\Users\rbuzas\Desktop\split_fgv\split_fgv\obj\Debug\split_fgv.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\Desktop\split\split_fgv_ny\split_fgv\bin\Debug\split_fgv.exe.config
+C:\Users\rbuzas\Desktop\split\split_fgv_ny\split_fgv\obj\Debug\split_fgv.exe
+C:\Users\rbuzas\Desktop\split\split_fgv_ny\split_fgv\obj\Debug\split_fgv.pdb
+C:\Users\rbuzas\Desktop\split\split_fgv_ny\split_fgv\bin\Debug\split_fgv.exe
+C:\Users\rbuzas\Desktop\split\split_fgv_ny\split_fgv\bin\Debug\split_fgv.pdb
+C:\Users\rbuzas\Desktop\split\split_fgv_ny\split_fgv\obj\Debug\split_fgv.csprojResolveAssemblyReference.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\split_fgv\split_fgv\bin\Debug\split_fgv.exe.config
+C:\Users\Meszi\Desktop\Házi\Szakmai\split_fgv\split_fgv\bin\Debug\split_fgv.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\split_fgv\split_fgv\bin\Debug\split_fgv.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\split_fgv\split_fgv\obj\Debug\split_fgv.csprojAssemblyReference.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\split_fgv\split_fgv\obj\Debug\split_fgv.csproj.CoreCompileInputs.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\split_fgv\split_fgv\obj\Debug\split_fgv.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\split_fgv\split_fgv\obj\Debug\split_fgv.pdb

@@ -1,0 +1,14 @@
+C:\Users\rbuzas\Google Drive\tananyag_2021\c#\osztály_függvények\függvény_osztály_gyak_2\függvény_osztály_gyak_2\bin\Debug\függvény_osztály_gyak_2.exe.config
+C:\Users\rbuzas\Google Drive\tananyag_2021\c#\osztály_függvények\függvény_osztály_gyak_2\függvény_osztály_gyak_2\bin\Debug\függvény_osztály_gyak_2.exe
+C:\Users\rbuzas\Google Drive\tananyag_2021\c#\osztály_függvények\függvény_osztály_gyak_2\függvény_osztály_gyak_2\bin\Debug\függvény_osztály_gyak_2.pdb
+C:\Users\rbuzas\Google Drive\tananyag_2021\c#\osztály_függvények\függvény_osztály_gyak_2\függvény_osztály_gyak_2\obj\Debug\függvény_osztály_gyak_2.csprojAssemblyReference.cache
+C:\Users\rbuzas\Google Drive\tananyag_2021\c#\osztály_függvények\függvény_osztály_gyak_2\függvény_osztály_gyak_2\obj\Debug\függvény_osztály_gyak_2.csproj.CoreCompileInputs.cache
+C:\Users\rbuzas\Google Drive\tananyag_2021\c#\osztály_függvények\függvény_osztály_gyak_2\függvény_osztály_gyak_2\obj\Debug\függvény_osztály_gyak_2.exe
+C:\Users\rbuzas\Google Drive\tananyag_2021\c#\osztály_függvények\függvény_osztály_gyak_2\függvény_osztály_gyak_2\obj\Debug\függvény_osztály_gyak_2.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_osztály_gyak_2\függvény_osztály_gyak_2\bin\Debug\függvény_osztály_gyak_2.exe.config
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_osztály_gyak_2\függvény_osztály_gyak_2\bin\Debug\függvény_osztály_gyak_2.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_osztály_gyak_2\függvény_osztály_gyak_2\bin\Debug\függvény_osztály_gyak_2.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_osztály_gyak_2\függvény_osztály_gyak_2\obj\Debug\függvény_osztály_gyak_2.csprojAssemblyReference.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_osztály_gyak_2\függvény_osztály_gyak_2\obj\Debug\függvény_osztály_gyak_2.csproj.CoreCompileInputs.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_osztály_gyak_2\függvény_osztály_gyak_2\obj\Debug\függvény_osztály_gyak_2.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\függvény_osztály_gyak_2\függvény_osztály_gyak_2\obj\Debug\függvény_osztály_gyak_2.pdb
