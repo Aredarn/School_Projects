@@ -25,3 +25,10 @@ G:\tananyag_1920\prog_prj\_osztály_állomány\osztály_állomny_zöldség_ny\os
 G:\tananyag_1920\prog_prj\_osztály_állomány\osztály_állomny_zöldség_ny\osztály_állomny_zöldség\bin\Debug\osztály_állomny_zöldség.exe
 G:\tananyag_1920\prog_prj\_osztály_állomány\osztály_állomny_zöldség_ny\osztály_állomny_zöldség\bin\Debug\osztály_állomny_zöldség.pdb
 G:\tananyag_1920\prog_prj\_osztály_állomány\osztály_állomny_zöldség_ny\osztály_állomny_zöldség\obj\Debug\osztály_állomny_zöldség.csprojResolveAssemblyReference.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_állomny_zöldség_ny\osztály_állomny_zöldség\bin\Debug\osztály_állomny_zöldség.exe.config
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_állomny_zöldség_ny\osztály_állomny_zöldség\bin\Debug\osztály_állomny_zöldség.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_állomny_zöldség_ny\osztály_állomny_zöldség\bin\Debug\osztály_állomny_zöldség.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_állomny_zöldség_ny\osztály_állomny_zöldség\obj\Debug\osztály_állomny_zöldség.csprojAssemblyReference.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_állomny_zöldség_ny\osztály_állomny_zöldség\obj\Debug\osztály_állomny_zöldség.csproj.CoreCompileInputs.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_állomny_zöldség_ny\osztály_állomny_zöldség\obj\Debug\osztály_állomny_zöldség.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_állomny_zöldség_ny\osztály_állomny_zöldség\obj\Debug\osztály_állomny_zöldség.pdb
