@@ -1,0 +1,21 @@
+C:\Users\rbuzas\AppData\Local\Temporary Projects\osztály_tömb_gyak_1_részvény\bin\Debug\osztály_tömb_gyak_1_részvény.exe.config
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\osztály_tömb_gyak_1_részvény\osztály_tömb_gyak_1_részvény\bin\Debug\osztály_tömb_gyak_1_részvény.exe.config
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\osztály_tömb_gyak_1_részvény\osztály_tömb_gyak_1_részvény\bin\Debug\osztály_tömb_gyak_1_részvény.exe
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\osztály_tömb_gyak_1_részvény\osztály_tömb_gyak_1_részvény\bin\Debug\osztály_tömb_gyak_1_részvény.pdb
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\osztály_tömb_gyak_1_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\osztály_tömb_gyak_1_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.exe
+C:\Users\rbuzas\Documents\Visual Studio 2015\Projects\osztály_tömb_gyak_1_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.pdb
+C:\Users\rbuzas\Desktop\12b\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\bin\Debug\osztály_tömb_gyak_1_részvény.exe.config
+C:\Users\rbuzas\Desktop\12b\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\bin\Debug\osztály_tömb_gyak_1_részvény.exe
+C:\Users\rbuzas\Desktop\12b\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\bin\Debug\osztály_tömb_gyak_1_részvény.pdb
+C:\Users\rbuzas\Desktop\12b\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.csprojAssemblyReference.cache
+C:\Users\rbuzas\Desktop\12b\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.csproj.CoreCompileInputs.cache
+C:\Users\rbuzas\Desktop\12b\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.exe
+C:\Users\rbuzas\Desktop\12b\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\bin\Debug\osztály_tömb_gyak_1_részvény.exe.config
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\bin\Debug\osztály_tömb_gyak_1_részvény.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\bin\Debug\osztály_tömb_gyak_1_részvény.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.csprojAssemblyReference.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.csproj.CoreCompileInputs.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_tömb_gyak_részvény\osztály_tömb_gyak_1_részvény\obj\Debug\osztály_tömb_gyak_1_részvény.pdb
