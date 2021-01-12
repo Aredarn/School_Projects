@@ -1,0 +1,19 @@
+C:\Users\rbuzas\AppData\Local\Temporary Projects\osztály_fájl_gyak_I_2\bin\Debug\osztály_fájl_gyak_I_2.exe.config
+C:\Users\rbuzas\AppData\Local\Temporary Projects\osztály_fájl_gyak_I_2\bin\Debug\osztály_fájl_gyak_I_2.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\osztály_fájl_gyak_I_2\bin\Debug\osztály_fájl_gyak_I_2.pdb
+C:\Users\rbuzas\AppData\Local\Temporary Projects\osztály_fájl_gyak_I_2\obj\Debug\osztály_fájl_gyak_I_2.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\AppData\Local\Temporary Projects\osztály_fájl_gyak_I_2\obj\Debug\osztály_fájl_gyak_I_2.exe
+C:\Users\rbuzas\AppData\Local\Temporary Projects\osztály_fájl_gyak_I_2\obj\Debug\osztály_fájl_gyak_I_2.pdb
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_2\osztály_fájl_gyak_I_2\bin\Debug\osztály_fájl_gyak_I_2.exe.config
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_2\osztály_fájl_gyak_I_2\obj\Debug\osztály_fájl_gyak_I_2.exe
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_2\osztály_fájl_gyak_I_2\obj\Debug\osztály_fájl_gyak_I_2.pdb
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_2\osztály_fájl_gyak_I_2\bin\Debug\osztály_fájl_gyak_I_2.exe
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_2\osztály_fájl_gyak_I_2\bin\Debug\osztály_fájl_gyak_I_2.pdb
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_2\osztály_fájl_gyak_I_2\obj\Debug\osztály_fájl_gyak_I_2.csprojResolveAssemblyReference.cache
+C:\Users\Meszi\Desktop\osztály_fájl_gyak_I_2_lakás\osztály_fájl_gyak_I_2\bin\Debug\osztály_fájl_gyak_I_2.exe.config
+C:\Users\Meszi\Desktop\osztály_fájl_gyak_I_2_lakás\osztály_fájl_gyak_I_2\bin\Debug\osztály_fájl_gyak_I_2.exe
+C:\Users\Meszi\Desktop\osztály_fájl_gyak_I_2_lakás\osztály_fájl_gyak_I_2\bin\Debug\osztály_fájl_gyak_I_2.pdb
+C:\Users\Meszi\Desktop\osztály_fájl_gyak_I_2_lakás\osztály_fájl_gyak_I_2\obj\Debug\osztály_fájl_gyak_I_2.csprojAssemblyReference.cache
+C:\Users\Meszi\Desktop\osztály_fájl_gyak_I_2_lakás\osztály_fájl_gyak_I_2\obj\Debug\osztály_fájl_gyak_I_2.csproj.CoreCompileInputs.cache
+C:\Users\Meszi\Desktop\osztály_fájl_gyak_I_2_lakás\osztály_fájl_gyak_I_2\obj\Debug\osztály_fájl_gyak_I_2.exe
+C:\Users\Meszi\Desktop\osztály_fájl_gyak_I_2_lakás\osztály_fájl_gyak_I_2\obj\Debug\osztály_fájl_gyak_I_2.pdb
