@@ -1,0 +1,53 @@
+Algéria@2381741@32900000@Algír@2100000@fv
+Angola@1246700@12100000@Luanda@2500000@fv
+Benin@112622@7900000@Cotonou@1000000@nfv
+Bissau-Guinea@36125@1400000@Bissau@340000@fv
+Botswana@600370@1600000@Gaborone@275000@fv
+Burkina Faso@274122@13900000@Ouagadougou@1000000@fv
+Burundi@27830@8100000@Bujumbura@310000@fv
+Comore-szigetek@2170@700000@Moroni@23400@fv
+Csád@1284000@9900000@N’Djamena@650000@fv
+Dél-afrikai Köztársaság@1219912@44200000@Johannesburg-East Rand@6000000@nfv
+Dzsibuti@23000@490000@Dzsibuti@425000@fv
+Egyenlítői-Guinea@28051@540000@Malabo@100000@fv
+Egyiptom@1001450@78900000@Kairó@12200000@fv
+Elefántcsontpart@322460@17700000@Abidjan@3300000@nfv
+Eritrea@121320@4800000@Aszmara@450000@fv
+Etiópia@1127127@74800000@Addisz-Abeba@2500000@fv
+Gabon@267667@1400000@Libreville@550000@fv
+Gambia@11295@1600000@Banjul@500000@fv
+Ghána@239460@22400000@Accra@1500000@fv
+Guinea@245857@9700000@Conakry@1300000@fv
+Kamerun@475440@17300000@Yaoundé@1200000@fv
+Kenya@582646@34700000@Nairobi@2000000@fv
+Kongói Köztársaság@342000@3700000@Brazzaville@1050000@fv
+Kongói Demokratikus Köztársaság@2345409@62700000@Kinshasa@5000000@fv
+Közép-afrikai Köztársaság@622984@4300000@Bangui@500000@fv
+Lesotho@30355@2000000@Maseru@200000@fv
+Libéria@111369@3000000@Monrovia@500000@fv
+Líbia@1759540@5900000@Tripoli@1100000@fv
+Madagaszkár@587041@18600000@Antananarivo@1050000@fv
+Malawi@118484@13000000@Lilongwe@575000@fv
+Mali@1240142@11700000@Bamako@1200000@fv
+Marokkó@446550@33200000@Casablanca@2800000@nfv
+Mauritánia@1030700@3200000@Nouakchott@550000@fv
+Mauritius@2045@1800000@Port Louis@165000@fv
+Mozambik@801590@19700000@Maputo@1650000@fv
+Namíbia@825418@2000000@Windhoek@225000@fv
+Niger@1267000@12500000@Niamey@625000@fv
+Nigéria@923768@131900000@Lagos@13400000@nfv
+Ruanda@26338@8600000@Kigali@600000@fv
+São Tomé és Príncipe@1001@190000@São Tomé@57000@fv
+Seychelle-szigetek@376@81000@Victoria@24000@fv
+Sierra Leone@71740@6000000@Freetown@750000@fv
+Szenegál@196190@11100000@Dakar@1900000@fv
+Szomália@637657@8900000@Mogadishu@1200000@fv
+Szudán@2505813@41200000@Kartúm@4000000@fv
+Szváziföld@17363@1100000@Mbabane@75000@fv
+Tanzánia@945087@37400000@Dar es Szalam@2300000@nfv
+Togo@56785@5500000@Lomé@850000@fv
+Tunézia@163610@10200000@Tunisz@2000000@fv
+Uganda@236040@28200000@Kampala@1150000@fv
+Zambia@752614@11500000@Lusaka@1050000@fv
+Zimbabwe@390580@12200000@Harare@1750000@fv
+Zöld-foki Köztársaság@4033@420000@Praia@95000@fv

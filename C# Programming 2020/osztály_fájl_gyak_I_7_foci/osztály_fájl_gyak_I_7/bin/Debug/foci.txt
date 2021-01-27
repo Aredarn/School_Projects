@@ -1,0 +1,12 @@
+Debreceni VSC|8|6|4|25|19
+Diósgyőri VTK|4|5|9|18|29
+Ferencvárosi TC|12|3|2|35|13
+Haladás|2|3|13|13|35
+Honvéd FC|8|5|5|21|15
+Kisvárda|4|4|10|16|35
+Mezőkövesd|6|6|6|25|23
+MOL Vidi FC|9|4|4|28|15
+MTK Budapest|8|3|7|27|25
+Paks|5|7|6|22|25
+Puskás Akadémia|6|3|9|21|24
+Újpest|7|7|4|21|14

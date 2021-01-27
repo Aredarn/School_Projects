@@ -1,0 +1,14 @@
+C:\Users\rbuzas\AppData\Local\Temporary Projects\osztály_fájl_gyak_I_3\bin\Debug\osztály_fájl_gyak_I_3.exe.config
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_3\osztály_fájl_gyak_I_3\bin\Debug\osztály_fájl_gyak_I_3.exe.config
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_3\osztály_fájl_gyak_I_3\bin\Debug\osztály_fájl_gyak_I_3.exe
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_3\osztály_fájl_gyak_I_3\bin\Debug\osztály_fájl_gyak_I_3.pdb
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_3\osztály_fájl_gyak_I_3\obj\Debug\osztály_fájl_gyak_I_3.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_3\osztály_fájl_gyak_I_3\obj\Debug\osztály_fájl_gyak_I_3.exe
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_3\osztály_fájl_gyak_I_3\obj\Debug\osztály_fájl_gyak_I_3.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_3_Afrika_országai\osztály_fájl_gyak_I_3\bin\Debug\osztály_fájl_gyak_I_3.exe.config
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_3_Afrika_országai\osztály_fájl_gyak_I_3\bin\Debug\osztály_fájl_gyak_I_3.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_3_Afrika_országai\osztály_fájl_gyak_I_3\bin\Debug\osztály_fájl_gyak_I_3.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_3_Afrika_országai\osztály_fájl_gyak_I_3\obj\Debug\osztály_fájl_gyak_I_3.csprojAssemblyReference.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_3_Afrika_országai\osztály_fájl_gyak_I_3\obj\Debug\osztály_fájl_gyak_I_3.csproj.CoreCompileInputs.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_3_Afrika_országai\osztály_fájl_gyak_I_3\obj\Debug\osztály_fájl_gyak_I_3.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_3_Afrika_országai\osztály_fájl_gyak_I_3\obj\Debug\osztály_fájl_gyak_I_3.pdb

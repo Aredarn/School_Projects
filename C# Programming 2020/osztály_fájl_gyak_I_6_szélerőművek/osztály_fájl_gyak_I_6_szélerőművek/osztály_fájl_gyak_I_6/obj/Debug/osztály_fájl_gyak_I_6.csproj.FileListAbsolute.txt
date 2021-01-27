@@ -1,0 +1,14 @@
+C:\Users\rbuzas\AppData\Local\Temporary Projects\osztály_fájl_gyak_I_6\bin\Debug\osztály_fájl_gyak_I_6.exe.config
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_6\osztály_fájl_gyak_I_6\bin\Debug\osztály_fájl_gyak_I_6.exe.config
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_6\osztály_fájl_gyak_I_6\bin\Debug\osztály_fájl_gyak_I_6.exe
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_6\osztály_fájl_gyak_I_6\bin\Debug\osztály_fájl_gyak_I_6.pdb
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_6\osztály_fájl_gyak_I_6\obj\Debug\osztály_fájl_gyak_I_6.csprojResolveAssemblyReference.cache
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_6\osztály_fájl_gyak_I_6\obj\Debug\osztály_fájl_gyak_I_6.exe
+C:\Users\rbuzas\Desktop\osztály_fájl_gyak_I_6\osztály_fájl_gyak_I_6\obj\Debug\osztály_fájl_gyak_I_6.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6\bin\Debug\osztály_fájl_gyak_I_6.exe.config
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6\bin\Debug\osztály_fájl_gyak_I_6.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6\bin\Debug\osztály_fájl_gyak_I_6.pdb
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6\obj\Debug\osztály_fájl_gyak_I_6.csprojAssemblyReference.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6\obj\Debug\osztály_fájl_gyak_I_6.csproj.CoreCompileInputs.cache
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6\obj\Debug\osztály_fájl_gyak_I_6.exe
+C:\Users\Meszi\Desktop\Házi\Szakmai\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6_szélerőművek\osztály_fájl_gyak_I_6\obj\Debug\osztály_fájl_gyak_I_6.pdb
